@@ -1,0 +1,43 @@
+.product {
+  &__wrapper {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-items: center;
+    margin: 30px 10px;
+  }
+
+  &__free_shipping {
+    background-color: black;
+    color: white;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    padding: 10px 20px;
+  }
+
+  &__separator {
+    width: 20px;
+    height: 2px;
+    background-color: burlywood;
+  }
+
+  &__price {
+    font-size: 1.7em;
+  }
+
+  &__discount {
+    margin-top: 0;
+    color: gray;
+  }
+
+  &__cta {
+    color: white;
+    background-color: black;
+    width: 100%;
+    border: none;
+    border-radius: 0;
+    padding: 20px;
+    font-size: 1.2em;
+  }
+}

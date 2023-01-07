@@ -1,0 +1,29 @@
+.sidebar {
+  width: 300px;
+  margin: 0 50px;
+  flex-shrink: 0;
+}
+
+.sizes {
+  &__wrapper {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  &__button {
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    border-radius: 100%;
+    background-color: lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    &--selected {
+      background-color: black;
+      color: white;
+      font-weight: bold;
+    }
+  }
+}

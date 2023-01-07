@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Product Number 0",
+    "price": 36.38,
+    "discountProductsCount": 8,
+    "size": "l",
+    "discount": 1.53,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": true
+  },
+  {
+    "name": "Product Number 1",
+    "price": 49.88,
+    "discountProductsCount": 3,
+    "size": "m",
+    "discount": 9.18,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": true
+  },
+  {
+    "name": "Product Number 2",
+    "price": 24.15,
+    "discountProductsCount": 4,
+    "size": "xl",
+    "discount": 5.2,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": true
+  },
+  {
+    "name": "Product Number 3",
+    "price": 37.22,
+    "discountProductsCount": 8,
+    "size": "xxl",
+    "discount": 1.59,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": false
+  },
+  {
+    "name": "Product Number 4",
+    "price": 34.57,
+    "discountProductsCount": 1,
+    "size": "s",
+    "discount": 4.2,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": true
+  },
+  {
+    "name": "Product Number 5",
+    "price": 9.58,
+    "discountProductsCount": 9,
+    "size": "xl",
+    "discount": 0.46,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": true
+  },
+  {
+    "name": "Product Number 6",
+    "price": 6.18,
+    "discountProductsCount": 0,
+    "size": "xxl",
+    "discount": null,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": true
+  },
+  {
+    "name": "Product Number 7",
+    "price": 42.23,
+    "discountProductsCount": 1,
+    "size": "xxl",
+    "discount": 35.54,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": true
+  },
+  {
+    "name": "Product Number 8",
+    "price": 38.39,
+    "discountProductsCount": 2,
+    "size": "s",
+    "discount": 9,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": true
+  },
+  {
+    "name": "Product Number 9",
+    "price": 18.78,
+    "discountProductsCount": 4,
+    "size": "s",
+    "discount": 1.37,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": false
+  },
+  {
+    "name": "Product Number 10",
+    "price": 4.45,
+    "discountProductsCount": 7,
+    "size": "s",
+    "discount": 0.12,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": false
+  },
+  {
+    "name": "Product Number 11",
+    "price": 12.35,
+    "discountProductsCount": 9,
+    "size": "s",
+    "discount": 0.16,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": false
+  },
+  {
+    "name": "Product Number 12",
+    "price": 22.7,
+    "discountProductsCount": 4,
+    "size": "l",
+    "discount": 5.59,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": false
+  },
+  {
+    "name": "Product Number 13",
+    "price": 29.89,
+    "discountProductsCount": 6,
+    "size": "xs",
+    "discount": 3.09,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": true
+  },
+  {
+    "name": "Product Number 14",
+    "price": 20.02,
+    "discountProductsCount": 7,
+    "size": "xs",
+    "discount": 0.51,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": false
+  },
+  {
+    "name": "Product Number 15",
+    "price": 28.38,
+    "discountProductsCount": 6,
+    "size": "xs",
+    "discount": 4.24,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": true
+  },
+  {
+    "name": "Product Number 16",
+    "price": 37.81,
+    "discountProductsCount": 9,
+    "size": "m",
+    "discount": 1.19,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": true
+  },
+  {
+    "name": "Product Number 17",
+    "price": 6.38,
+    "discountProductsCount": 6,
+    "size": "m",
+    "discount": 0.49,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": false
+  },
+  {
+    "name": "Product Number 18",
+    "price": 20.91,
+    "discountProductsCount": 4,
+    "size": "l",
+    "discount": 2.79,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": true
+  },
+  {
+    "name": "Product Number 19",
+    "price": 11.4,
+    "discountProductsCount": 1,
+    "size": "l",
+    "discount": 10.49,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": true
+  },
+  {
+    "name": "Product Number 20",
+    "price": 2.27,
+    "discountProductsCount": 2,
+    "size": "xs",
+    "discount": 1.01,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": false
+  },
+  {
+    "name": "Product Number 21",
+    "price": 8.97,
+    "discountProductsCount": 9,
+    "size": "xs",
+    "discount": 0.23,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": true
+  },
+  {
+    "name": "Product Number 22",
+    "price": 39.97,
+    "discountProductsCount": 9,
+    "size": "xxl",
+    "discount": 3.57,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": true
+  },
+  {
+    "name": "Product Number 23",
+    "price": 40.55,
+    "discountProductsCount": 1,
+    "size": "xs",
+    "discount": 1.21,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": false
+  },
+  {
+    "name": "Product Number 24",
+    "price": 30.65,
+    "discountProductsCount": 2,
+    "size": "xl",
+    "discount": 9.64,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": true
+  },
+  {
+    "name": "Product Number 25",
+    "price": 45.72,
+    "discountProductsCount": 1,
+    "size": "xl",
+    "discount": 42.88,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": true
+  },
+  {
+    "name": "Product Number 26",
+    "price": 16.49,
+    "discountProductsCount": 7,
+    "size": "xl",
+    "discount": 1.48,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": true
+  },
+  {
+    "name": "Product Number 27",
+    "price": 15.85,
+    "discountProductsCount": 0,
+    "size": "xl",
+    "discount": null,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": false
+  },
+  {
+    "name": "Product Number 28",
+    "price": 18.4,
+    "discountProductsCount": 2,
+    "size": "l",
+    "discount": 5.59,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": false
+  },
+  {
+    "name": "Product Number 29",
+    "price": 31.71,
+    "discountProductsCount": 6,
+    "size": "xxl",
+    "discount": 1.43,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": false
+  },
+  {
+    "name": "Product Number 30",
+    "price": 39.02,
+    "discountProductsCount": 7,
+    "size": "xxl",
+    "discount": 4.1,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": true
+  },
+  {
+    "name": "Product Number 31",
+    "price": 25.24,
+    "discountProductsCount": 7,
+    "size": "xxl",
+    "discount": 3.35,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": true
+  },
+  {
+    "name": "Product Number 32",
+    "price": 42.79,
+    "discountProductsCount": 5,
+    "size": "s",
+    "discount": 3.74,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": true
+  },
+  {
+    "name": "Product Number 33",
+    "price": 23.11,
+    "discountProductsCount": 1,
+    "size": "m",
+    "discount": 21.16,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": false
+  },
+  {
+    "name": "Product Number 34",
+    "price": 24.31,
+    "discountProductsCount": 5,
+    "size": "xs",
+    "discount": 0.88,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": true
+  },
+  {
+    "name": "Product Number 35",
+    "price": 1.62,
+    "discountProductsCount": 3,
+    "size": "s",
+    "discount": 0.5,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": false
+  },
+  {
+    "name": "Product Number 36",
+    "price": 25.67,
+    "discountProductsCount": 7,
+    "size": "m",
+    "discount": 1.36,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": true
+  },
+  {
+    "name": "Product Number 37",
+    "price": 18.13,
+    "discountProductsCount": 9,
+    "size": "xl",
+    "discount": 0.23,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": false
+  },
+  {
+    "name": "Product Number 38",
+    "price": 24.69,
+    "discountProductsCount": 5,
+    "size": "s",
+    "discount": 0.5,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": false
+  },
+  {
+    "name": "Product Number 39",
+    "price": 40.43,
+    "discountProductsCount": 9,
+    "size": "xs",
+    "discount": 0.8,
+    "image": "https://atelierm.ro/wp-content/uploads/2022/11/Rochie-Amon-far-atrena-rosie-tarancute-MF-02d-300x500.jpg",
+    "freeShipping": false
+  }
+]

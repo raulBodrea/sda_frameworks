@@ -1,0 +1,29 @@
+.shopping_cart {
+  &__wrapper {
+    display: flex;
+    justify-content: flex-end;
+    margin: 20px 50px;
+    position: relative;
+  }
+
+  &__image {
+    width: 50px;
+    height: 50px;
+  }
+
+  &__products_count {
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 5px;
+    background-color: red;
+    border-radius: 100%;
+    color: white;
+    width: 15px;
+    height: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+  }
+}

@@ -1,24 +1,39 @@
-import logo from './logo.svg';
-import './App.css';
+import { useState, useEffect } from 'react';
+import './App.scss';
+import Sidebar from './components/sidebar/Sidebar';
+import Products from './components/products/Products';
+
+import initialProducts from './mocks/products.json';
+import Cart from './components/cart/Cart';
 
 function App() {
+  const [currentProducts, setCurrentProducts] = useState(initialProducts);
+  const [cartItems, setCartItems] = useState([]);
+  const [filters, setFilters] = useState([]);
+
+  useEffect(() => {
+    if (!filters.length) {
+      setCurrentProducts(initialProducts);
+      return;
+    }
+
+    const newProductSelection = initialProducts.filter(currentProduct =>
+      filters.includes(currentProduct.size)
+    );
+    setCurrentProducts(newProductSelection);
+  }, [filters]);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <Cart cartItems={cartItems} />
+      <div className="content_wrapper">
+        <Sidebar filters={filters} setFilters={setFilters} />
+        <Products
+          setCartItems={setCartItems}
+          currentProducts={currentProducts}
+        />
+      </div>
+    </>
   );
 }
 
